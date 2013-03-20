@@ -1,0 +1,4 @@
+schematics ckt-mriso.sch
+output-name ../pcb/ckt-mriso
+skip-m4
+elements-dir ../../footprints
