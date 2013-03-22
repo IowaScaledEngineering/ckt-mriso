@@ -6,7 +6,7 @@ FileVersion[20070407]
 PCB["" 230000 125000]
 
 Grid[500.0 0 0 1]
-Cursor[72500 125000 0.000000]
+Cursor[61000 125000 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[800 800 800 1000 2000 800]
@@ -1380,13 +1380,13 @@ Layer(3 "silk")
 	Text[132000 72500 0 100 "CKT-MRISO v1.0" "clearline,onsolder"]
 	Text[131500 52000 0 100 "http://iascaled.com" "onsolder"]
 	Text[24000 127000 0 230 "+" "clearline,onsolder"]
-	Text[44500 127000 0 235 "-" "clearline,onsolder"]
 	Text[81500 127000 0 230 "+" "clearline,onsolder"]
-	Text[102000 127000 0 235 "-" "clearline,onsolder"]
 	Text[138000 127000 0 230 "+" "clearline,onsolder"]
-	Text[158500 127000 0 235 "-" "clearline,onsolder"]
+	Text[158000 127000 0 235 "-" "clearline,onsolder"]
 	Text[195500 127000 0 230 "+" "clearline,onsolder"]
-	Text[216000 127000 0 235 "-" "clearline,onsolder"]
+	Text[215500 127000 0 235 "-" "clearline,onsolder"]
+	Text[44000 127000 0 235 "-" "clearline,onsolder"]
+	Text[101000 127000 0 235 "-" "clearline,selected,onsolder"]
 )
 Layer(4 "silk")
 (
