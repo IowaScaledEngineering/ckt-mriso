@@ -1,0 +1,15 @@
+G04 start of page 10 for group -4014 idx -4014 *
+G04 Title: (unknown), bottompaste *
+G04 Creator: pcb 20110918 *
+G04 CreationDate: Mon 25 Mar 2013 04:24:27 AM GMT UTC *
+G04 For: ndholmes *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions: 240000 80000 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNBOTTOMPASTE*%
+%ADD56R,0.0630X0.0630*%
+G54D56*X62056Y10963D02*Y4664D01*
+Y30648D02*Y24349D01*
+M02*
